@@ -1,0 +1,46 @@
+
+.site-heading .site-heading-lower {
+    color: rgb(0, 41, 14);
+}
+
+#mainNav {
+    background-color:rgba(0, 41, 14, 0.801);}
+
+#mainNav .navbar-nav .nav-item .nav-link {
+    color:rgb(154, 199, 154);
+    font-weight: 800;
+  }
+body {
+    background-image: url(../Images/greensplotchbg.jpeg)
+}
+
+.footer {
+    background-color: rgba(0, 41, 14, 0.801);
+  }
+  
+
+#video{ 
+    display: flex;
+    justify-content: center;
+    padding-bottom: 75px;
+}
+
+.about-heading #familypic {
+    position: relative;
+    z-index: -1;
+    bottom: 25px;
+    left: 250px;
+    right: 50px;
+}
+
+.jumpref {
+    font-size: small;
+}
+
+ul{
+    line-height: 25pt;
+}
+
+ol {
+    line-height: 25pt;
+}
